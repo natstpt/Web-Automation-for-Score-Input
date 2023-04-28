@@ -6,7 +6,6 @@ This project automates the process of logging into a website, navigating through
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Installation
